@@ -25,7 +25,7 @@ The HOPE fund is intended to pay publication fees on scholarly articles by curre
 - Authors must be current Harvard affiliates (including faculty, administrators, librarians, staff, postdocs, fellows, and students).
 - Faculty members and other affiliates covered by one of the Harvard open-access policies must be in [substantial compliance](#oa-compliance) with the relevant open-access policy.
 - Authors must sign an [Assistance Authorization](/dash/authorization/) form.
-- Authors must have an [ORCID](https://orcid.org/), and include it in their request for funds.
+- Authors must have an [ORCID](https://orcid.org/), and include it in their request for funds. test test test
 
 ### Restrictions on timing
 
